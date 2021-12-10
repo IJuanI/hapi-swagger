@@ -1,5 +1,5 @@
 {
-  "name": "hapi-swagger",
+  "name": "@ijuani/hapi-swagger",
   "description": "A swagger documentation UI generator plugin for hapi",
   "version": "14.2.4",
   "author": "Glenn Jones",
@@ -52,7 +52,7 @@
     "http-status": "^1.0.1",
     "json-schema-ref-parser": "^6.1.0",
     "swagger-parser": "4.0.2",
-    "swagger-ui-dist": "^3.47.1"
+    "@ijuani/swagger-ui-dist": "^4.1.2"
   },
   "devDependencies": {
     "@hapi/basic": "^6.0.0",
