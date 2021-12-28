@@ -32,7 +32,7 @@
     "start:extend": "node examples/extend.js",
     "start:group:ordered": "node examples/group-ordered.js",
     "start:routes:simple": "node examples/group-ordered.js",
-    "test": "yarn test:lib",
+    "test": "npm run test:lib",
     "test:lib": "lab -L -t 98 -I '__core-js_shared__,regeneratorRuntime,core,CSS'",
     "test:ts": "tsd",
     "lint": "eslint .",
